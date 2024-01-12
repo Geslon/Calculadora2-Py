@@ -9,4 +9,7 @@ Sem a necessidade de adicionar linhas ao codigo, digite no terminal flet pack Ca
 
 ![image](https://github.com/Geslon/Calculadora2-Py/assets/88560350/74bdac06-e4da-44e5-81ab-a6a2177b6bae)
 
+Documentação das bibliotecas utilizadas no projeto:
+https://flet.dev/docs/
+https://pyinstaller.org/en/stable/
 
